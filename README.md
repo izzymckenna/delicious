@@ -1,4 +1,5 @@
 # delicious
 school project
-This is my school project for year 10 DCT
-You have to 'Guess the number,' and if u get it right, you will be rewarded
+This is my school project for Year 10 DCT
+It's a mood tracker that will ask you how you feel and enter it into a calendar.
+
